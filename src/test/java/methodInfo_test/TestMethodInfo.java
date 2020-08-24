@@ -1,4 +1,4 @@
-package MethodInfoTest;
+package methodInfo_test;
 
 import java.lang.annotation.ElementType;
 import java.lang.annotation.Retention;

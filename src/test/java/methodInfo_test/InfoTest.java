@@ -1,4 +1,4 @@
-package MethodInfoTest;
+package methodInfo_test;
 
 
 import org.testng.annotations.Test;

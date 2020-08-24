@@ -1,4 +1,4 @@
-package ProxyTest;
+package proxy_test;
 import org.testng.annotations.Test;
 
 import java.lang.reflect.InvocationHandler;

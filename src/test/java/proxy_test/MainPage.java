@@ -1,4 +1,4 @@
-package ProxyTest;
+package proxy_test;
 
 public interface MainPage {
 

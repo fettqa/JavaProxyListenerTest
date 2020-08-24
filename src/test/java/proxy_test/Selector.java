@@ -1,4 +1,4 @@
-package ProxyTest;
+package proxy_test;
 
 import java.lang.annotation.Retention;
 import java.lang.annotation.Target;

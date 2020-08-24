@@ -3,11 +3,11 @@
 <suite name="Suite" parallel="false">
     <listeners>
 
-        <listener class-name="MethodInfoTest.MyListener" />
+        <listener class-name="methodInfo_test.serviceloader.MyListener" />
     </listeners>
     <test name="Test">
         <classes>
-            <class name="MethodInfoTest.InfoTest" />
+            <class name="methodInfo_test.InfoTest" />
         </classes>
-    </test> <!-- Test -->
-</suite> <!-- Suite -->
+    </test>
+</suite>
